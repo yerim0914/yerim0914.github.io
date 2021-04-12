@@ -11,6 +11,5 @@ categories: jekyll
 
 빨리 자야지
 
-정신차려!!!
-
-Good Bye.
+정신차려!!!<br>
+Good Bye. 자야지
