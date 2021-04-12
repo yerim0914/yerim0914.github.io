@@ -11,7 +11,7 @@ categories: others
 
 빨리 자야지
 
-정신차려!!!<br>
+정신차려!!!
 Good Bye. 자야지
 
 {% highlight ruby %}
