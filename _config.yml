@@ -1,9 +1,9 @@
-title: John Smith
+title: 예림's 기술 블로그
 description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+author: yerim
+logo: /hcz-jekyll-blog/static/img/yerim_img.jpg
+github: https://github.com/yerim0914
+about: Junior Developer
 
 baseurl: ""
 url: ""
