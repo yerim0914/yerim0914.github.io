@@ -13,6 +13,4 @@ categories: jekyll
 
 정신차려!!!
 
-
-
 Good Bye.
