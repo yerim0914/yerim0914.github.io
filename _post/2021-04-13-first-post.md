@@ -13,3 +13,5 @@ categories: others
 
 정신차려!!!<br>
 Good Bye. 자야지
+
+저장좀되거라
