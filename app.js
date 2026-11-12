@@ -5,13 +5,13 @@ const projects=[
     "category": "kinfa",
     "label": "FINANCIAL INFRASTRUCTURE",
     "visual": "finance",
-    "title": "대외계 시스템",
-    "short": "대외계 시스템 · 인프라 개발·운영",
+    "title": "IT 인프라·시스템 운영",
+    "short": "대외계 연계 · VOC 솔루션 관리 · 재해복구(DR) ISP 사업 지원",
     "period": "2025 — 현재",
     "company": "서민금융진흥원",
-    "role": "대외계 시스템 개발·운영 및 인터페이스 관리",
-    "summary": "다수 금융기관·유관기관과 연계되는 대외계 시스템. 전문 송수신·배치·파일 연계 운영과 인터페이스 변경 관리를 담당합니다.",
-    "context": "다수 금융기관 및 유관기관과 데이터를 주고받는 대외계 시스템입니다. 기관별 전문 규격과 데이터 연계 흐름을 확인하며, 인터페이스 변경사항과 운영 이슈에 대응합니다.",
+    "role": "대외계 개발·운영 · VOC 솔루션 관리 · DR ISP 사업 지원",
+    "summary": "대외계 연계 · VOC 솔루션 관리 · 재해복구(DR) ISP 사업 지원",
+    "context": "대외계 시스템과 사내 VOC 솔루션을 운영·관리하고, 재해복구체계 고도화 ISP 사업을 지원하는 업무입니다. 대외계에서는 기관별 전문 규격과 데이터 연계 흐름을 확인하고, VOC 솔루션의 운영 이슈와 요구사항에 대응합니다. DR ISP 사업은 부담당자로 운영관리와 기술 검토를 지원합니다.",
     "approach": "전문 설계서와 업무 요건을 분석하고, 기관별 필수값과 데이터 매핑 구조, 변경에 따른 기존 거래 영향을 검토합니다. 거래 지연이나 연계 오류가 발생하면 로그·DB 데이터·통신 경로를 확인하며 원인 분석을 지원합니다.",
     "contributions": [
       "금융기관·유관기관 간 TCP/IP 기반 전문 송수신 및 데이터 연계 운영",
@@ -31,7 +31,7 @@ const projects=[
       "Linux",
       "SVN"
     ],
-    "art": "<div class=\"infra-board\"><div class=\"infra-board-head\"><strong>다수 기관을 연결하는 대외계</strong><span>담당 업무</span></div><div class=\"infra-flow\"><div class=\"infra-node\"><strong>외부기관</strong><small>금융기관·유관기관</small></div><b class=\"infra-arrow\">⇄</b><div class=\"infra-node infra-interface\"><strong>인터페이스</strong><small>전문·배치·파일 연계</small></div><b class=\"infra-arrow\">⇄</b><div class=\"infra-node\"><strong>서민금융<br>진흥원</strong><small>대외계 시스템</small></div></div><div class=\"infra-capabilities\"><span>전문 송수신 운영</span><span>연계 규격·변경 관리</span><span>로그·SQL 데이터 분석</span><span>장애 원인 분석 지원</span></div></div>",
+    "art": "<div class=\"infra-board\"><div class=\"infra-board-head\"><strong>대외계 · 솔루션 · DR 사업 지원</strong><span>담당 업무</span></div><div class=\"infra-flow\"><div class=\"infra-node\"><strong>외부기관</strong><small>금융기관·유관기관</small></div><b class=\"infra-arrow\">⇄</b><div class=\"infra-node infra-interface\"><strong>인터페이스</strong><small>전문·배치·파일 연계</small></div><b class=\"infra-arrow\">⇄</b><div class=\"infra-node\"><strong>서민금융<br>진흥원</strong><small>대외계 시스템</small></div></div><div class=\"infra-capabilities\"><span>대외계 연계 운영</span><span>VOC 솔루션 관리</span><span>ISMS 대응</span><span>DR ISP 사업 지원</span></div></div>",
     "supportingWork": [
       {
         "title": "VOC 솔루션 운영·관리",
